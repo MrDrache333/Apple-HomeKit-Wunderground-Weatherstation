@@ -3,6 +3,8 @@
   <img src="https://github.com/MrDrache333/Apple-HomeKit-Wunderground-Weatherstation/blob/main/homekit.jpg?raw=true" height=200px>
   <img src="https://github.com/MrDrache333/Apple-HomeKit-Wunderground-Weatherstation/blob/main/wunderground.png?raw=true" height=200px>
 </div>
+
+<a href="https://www.buymeacoffee.com/MrDrache333" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height=40px alt="Buy Me A Coffee"></a>
 This represents a Solution to add any Wunderground Wetterstation to HomeKit using ioBroker and Node-Red.
 
 ## Requirements
@@ -42,3 +44,5 @@ Add a new device and add the following:
 
 ## (If not already done) Add the YaHKa-Bridge in the Home-App to your HomeKit devices
 For this, klick in the YaHKa-Adapter configuration on the ioBroker-HUB and use the configured pin to add the bridge to HomeKit.
+
+<a href="https://www.buymeacoffee.com/MrDrache333" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height=40px alt="Buy Me A Coffee"></a>
